@@ -6,10 +6,16 @@
 
 -----------------------
 ### Применяю: ###
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width="45" align="top">&nbsp;
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" title="Python">&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="42" align="top" title="NumPy">&nbsp;
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" align="top" title="Pandas">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/320px-Scikit_learn_logo_small.svg.png" width="68" align="top" title="scikit-learn">&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" width="42" align="top" title="PyTorch">&nbsp;
+<img src="https://raw.githubusercontent.com/scipy/scipy/d1c786632bcbcfff8a8227fa2043db6e34f95ba1/doc/source/_static/logo.svg" width="42" align="top" title="ScyPy">&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="42" align="top" title="PostgresSQL">&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="42" align="top" title="FastAPI">&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="38" align="top" title="Airflow">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width="45" align="top" title="Jupyter Notebook">&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="42" align="top" title="PyCharm">&nbsp;
+<!-- img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="42" align="top" title="SQL-Developer">&nbsp;-->
 
-<!---
-gr3eda1g0/gr3eda1g0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
