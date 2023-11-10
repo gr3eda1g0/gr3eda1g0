@@ -5,9 +5,7 @@
 - Планирую углублять навыки применения LLM для различных задач анализа и обработки данных.
 - На связи:&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/igor_n55)&nbsp;
-<a href="https://discord.com/users/1094996443942637598" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="40" title="Python"></a>&nbsp;
-
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1094996443942637598)&nbsp;
+<a href="https://discord.com/users/1094996443942637598" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" title="Python"></a>&nbsp;
 
 <!-- ![](https://discord-md-badge.vercel.app/api/shield/1094996443942637598)
 ![Discord Badge](https://dcbadge.vercel.app/api/shield/1094996443942637598?style=flat)&nbsp;
