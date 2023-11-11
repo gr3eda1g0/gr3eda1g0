@@ -13,7 +13,7 @@
 https://dcbadge.vercel.app/api/shield/1094996443942637598 -->
 
 -----------------------
-### Применяю: ###
+### Инструменты: ###
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" title="Python">&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="42" align="top" title="NumPy">&nbsp;
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" align="top" title="Pandas">&nbsp;
