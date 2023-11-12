@@ -1,6 +1,6 @@
 ## Привет! Меня зовут Игорь  
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/igor_n55)&nbsp;
-<a href="https://discord.com/users/1094996443942637598" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" title="Python"></a> 
+<a href="https://discordapp.com/users/1094996443942637598" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" title="Python"></a> 
 
 -----------------------
 ### Специализация: аналитик данных, data scientist, ML-инженер
