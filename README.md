@@ -35,6 +35,9 @@
 <!--  - Анализ и обработка естественного языка для лингвистических исследований;
   - Помощь в разработке и тестировании приложений с использованием естественного языка;
   - Улучшение процесса обучения языкам и языковой адаптации; -->
+-----------------------
+### Сертификаты:
+<img src="https://github.com/gr3eda1g0/gr3eda1g0/assets/150360438/d6a1a7a0-9177-4f57-8989-f74a26ba332b" height="200" align="top" title="Karpov.Courses START ML">
 
 <!-- - На связи:&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/igor_n55)&nbsp;
