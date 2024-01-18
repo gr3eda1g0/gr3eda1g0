@@ -39,6 +39,32 @@
 ### Сертификаты:
 <a href="https://lab.karpov.courses/certificate/13a985a8-5a48-4c5c-ac5c-763b2b390665/" target="_blank"><img src="https://github.com/gr3eda1g0/gr3eda1g0/assets/150360438/d6a1a7a0-9177-4f57-8989-f74a26ba332b" height="200" align="top" title="Karpov.Courses START ML"></a>
 
+При обращении к боту выполняется регистрация/аутентификация пользователя. Информация о пользователях хранится в базе данных PostgreSQL, имеющей следующую структуру:
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<tr valign="top" align="" style="padding: 0px; border: 0px"><td>
+
+| user |
+|-|
+| <span style="color: blue">**user_id**</span> |
+| telegram_id <br/>username<br/>first_name<br/>last_name<br/>registered_at |
+
+</td><td>
+
+| subscription_type                            |
+|----------------------------------------------|
+| <span style="color: green">**type_id**</span> |
+| type_name<br/>montly_price                   |
+
+</td><td>
+
+| user_subscription |
+|-|
+| subscription_id |
+| <span style="color: blue">**user_id**</span><br/><span style="color: green">**type_id**</span><br/>valid_from<br/>valid_to |
+
+</td></tr></table>
+
 <!-- - На связи:&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/igor_n55)&nbsp;
 <a href="https://discord.com/users/1094996443942637598" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" title="Python"></a>&nbsp;
